@@ -22,7 +22,7 @@ public class metric {
 
         }
 
-        //Declare New Variables
+        //Declare New Variables and Print
 
         double miles = meter / 1609.344;
 
